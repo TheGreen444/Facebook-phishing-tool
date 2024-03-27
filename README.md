@@ -15,7 +15,7 @@
  
 LINUX COMMANDS:
 
-     apt update && update -y
+  $ apt update && update -y
      
      apt install git
 
