@@ -27,11 +27,72 @@ LINUX COMMANDS:
 
      ls
 
-     cd Facebook-phishing-tool
+     cd facebook-phishing-tool
 
      ls
 
      bash runScript.sh
+           or
+     chmod +x runScript.sh
+     ./runScript.sh
+     
+ /
+ /
+   How to use in android(Termux)...
+ /
+ /
+ 
+TERMUX COMMANDS:
+
+     apt update && update -y
+
+     apt install python3-pip
+
+     pip install flask
+     
+     apt install git
+
+     git clone https://github.com/TheGreen444/facebook-phishing-tool.git
+
+     ls
+
+     cd facebook-phishing-tool
+
+     ls
+
+     bash runScript.sh
+           or
+     chmod +x runScript.sh
+     ./runScript.sh
+     
+ /
+ /
+   How to use in iphone (iSH)...
+ /
+ /
+
+iSH COMMANDS:
+
+    apk update
+
+    apk update
+
+    apk add python3
+
+    apk add py3-pip
+
+    pip install flask
+
+    git clone https://github.com/TheGreen444/facebook-phishing-tool.git
+
+     cd facebook-phishing-tool
+
+     ls
+     
+     //apk add bash 
+     if error in running bash file.
+     
+     bash runScript.sh  
            or
      chmod +x runScript.sh
      ./runScript.sh
