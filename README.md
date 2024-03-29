@@ -16,11 +16,14 @@
 LINUX COMMANDS:
 
      apt update && update -y
+
+     apt install python3-pip
+
+     pip install flask
      
      apt install git
 
-     git clone https://github.com/TheGreen444
-     /Facebook-phishing-tool.git
+     git clone https://github.com/TheGreen444/facebook-phishing-tool.git
 
      ls
 
