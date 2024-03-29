@@ -31,7 +31,7 @@ display_menu() {
 
 # Function to handle user input
 handle_input() {
-    read -p "root㉿TheGreenH4cker~# " choice
+   read -p $'\e[38;2;0;255;0mTheGreen☠️ H4ck3r ~# \e[0m' choice
     case $choice in
         1)
             python3 Tool/runScript.py
