@@ -27,6 +27,7 @@ display_menu() {
     echo "[*] Select a number..."
     echo "[1] Facebook login form."
     echo "[0] Exit"
+    echo
 }
 
 # Function to handle user input
