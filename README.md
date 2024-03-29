@@ -35,10 +35,11 @@ LINUX COMMANDS:
            or
      chmod +x runScript.sh
      ./runScript.sh
+
      
  /
  /
-   How to use in android(Termux)...
+   How to use in android (Termux)...
  /
  /
  
