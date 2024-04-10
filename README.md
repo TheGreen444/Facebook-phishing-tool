@@ -90,8 +90,9 @@ iSH COMMANDS:
 
      ls
      
-     //apk add bash 
-     if error in running bash file.
+     <!-- $apk add bash 
+     (if error in running bash file)
+     -->
      
      bash runScript.sh  
            or
