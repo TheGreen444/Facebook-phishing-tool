@@ -77,7 +77,7 @@ iSH COMMANDS:
 
     apk update
 
-    apk update
+    apk upgrade
 
     apk add python3
 
